@@ -1,6 +1,9 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Aleksandr Romanov</h1>
 	<h3>Project Manager from Russia</h3>
+<a href="t-do.ru/Rivalishe-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
 </div>
 
 <!--
