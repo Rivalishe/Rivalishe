@@ -4,7 +4,7 @@
 <a href="https://t.me/Rivalishe">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
-
+- 🌍 I speak English
 </div>
 ### About me
 - 🌱 I’m currently learning **Web3, GameDev**
@@ -12,11 +12,6 @@
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
-### My stat
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Rivalishe=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Rivalishe=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?Rivalishe=vn7n24fzkq&theme=github_dark"/>
 </div>
 
 <!--
