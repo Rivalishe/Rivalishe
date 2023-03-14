@@ -12,6 +12,12 @@
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Rivalishe=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Rivalishe=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?Rivalishe=vn7n24fzkq&theme=github_dark"/>
+</div>
 
 <!--
 **Rivalishe/Rivalishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
