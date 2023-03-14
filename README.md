@@ -10,7 +10,7 @@
 ### About me
 - 🌱 I’m currently learning **Web3, GameDev**
 - 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV]([cv-link](https://krasnoyarsk.hh.ru/resume/f0749795ff0572e7ae0039ed1f335758676a52))
+- 📄 Know about my experiences [CV]([cv-link](https://krasnoyarsk.hh.ru/resume/f0749795ff0572e7ae0039ed1f335758676a52)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:king8@mail.ru)
 - 🌍 I'm learning English
 - 
