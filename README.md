@@ -8,7 +8,12 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Projects in Mobile development and website development**
+- 🌱 I have project management techniques
+Classical project management
+Agile
+Scrum
+Lean
+Kanban
 - 📄 Know about my experiences [CV]([cv-link](https://krasnoyarsk.hh.ru/resume/f0749795ff0572e7ae0039ed1f335758676a52)
 - 📫 Reach me by [email](mailto:king8@mail.ru)
 - 🌍 I'm learning English
